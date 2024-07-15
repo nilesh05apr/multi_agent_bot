@@ -1,0 +1,12 @@
+# requirements.txt
+
+langchain
+langchain_openai
+langsmith
+pandas
+langchain_experimental
+matplotlib
+langgraph
+plotly
+gradio
+pyyaml
